@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nyarlathulhu&show_icons=true&theme=vision-friendly-dark&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nyarlathulhu&layout=compact&hide=HTML,CSS&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Nyarlathulhu&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
